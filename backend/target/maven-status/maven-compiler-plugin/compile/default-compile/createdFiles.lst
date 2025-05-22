@@ -1,0 +1,6 @@
+com\todoapp\backend\repository\TodoRepository.class
+com\todoapp\backend\BackendApplication.class
+com\todoapp\backend\model\Todo.class
+com\todoapp\backend\controller\TodoController.class
+com\todoapp\backend\controller\SummaryController.class
+com\todoapp\backend\service\TodoService.class
